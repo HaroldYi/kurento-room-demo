@@ -4,7 +4,7 @@
 
 	<parent>
 		<groupId>org.kurento</groupId>
-		<artifactId>kurento-room</artifactId>
+		<artifactId>kurento-room-demo</artifactId>
 		<version>6.6.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>kurento-room-demo</artifactId>
